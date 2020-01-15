@@ -1,1 +1,5 @@
-Hello World !
+<<<<<<< HEAD
+
+=======
+#Hello World
+>>>>>>> my-feature
